@@ -14,7 +14,7 @@ To run this application, you need to have Python installed on your system. Follo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/need-to-give-original-link
+   git clone https://github.com/Habeel-Ansari/BizCardX
    ```
 
 2. Install the required packages:
@@ -36,3 +36,4 @@ To run this application, you need to have Python installed on your system. Follo
 This application is developed by Habeel Ansari (https://www.linkedin.com/in/habeel-ansari). For more information about my projects, visit my GitHub profile(https://github.com/Habeel-Ansari).
 
 <b>This README provides a comprehensive guide for anyone interested in using or contributing to your project.</b>
+<b>You can use the images given in test_images to test the application</b>
