@@ -35,5 +35,6 @@ To run this application, you need to have Python installed on your system. Follo
 ## About the Author
 This application is developed by Habeel Ansari (https://www.linkedin.com/in/habeel-ansari). For more information about my projects, visit my GitHub profile(https://github.com/Habeel-Ansari).
 
+<b>You can try out live version of this application hosted in streamlit at: https://bizcardxocr.streamlit.app</b>
 <b>This README provides a comprehensive guide for anyone interested in using or contributing to your project.</b>
 <b>You can use the images given in test_images to test the application</b>
